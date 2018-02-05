@@ -4,7 +4,7 @@ Resources for an interview preparation workshop run by the UWaterloo Computer Sc
 
 ## Authors
 
-* Anna Lorimer
+* [Anna Lorimer](https://www.annalorimer.com)
 * Arshia Mufti
 * Fatema Boxwala
 * Iris Wen
