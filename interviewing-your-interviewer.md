@@ -1,5 +1,7 @@
 It's really important to understand the company you're accepting an offer with&mdash;and the team you're joining. Here are some questions that are you might want to ask your recruiter or potential manager. Don't hesitate to ask to set up a separate 20-30 minute chat with them!
 
+Note that you don't have to ask *all* these questions. Only ask those that you feel are relevant to you.
+
 ### Structure
 - Will I have a dedicated mentor to work with? Will I have weekly 1:1s with my mentor/manager?
   - *The less experience you have programming, the more important it is for the answer to both these questions to be "yes"*.
