@@ -1,4 +1,4 @@
-**Note: This is taken directly from [this repo](https://github.com/annalorimer/security-resources) which is updated with new links fairly often.** 
+**Note: This is taken directly from [this repo](https://github.com/annalorimer/security-resources) which is updated with new links regularily.** 
 
 
 # Security Resources 
