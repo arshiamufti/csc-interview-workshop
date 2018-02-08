@@ -3,8 +3,9 @@
 ### Blog Posts
 * [Demystifying Dynamic Programming – freeCodeCamp](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) - good explanation of dynamic programming
 
-### Questions
-* practice questions to do
+### Questions (if you're in 1B and below)
+* calculate the slope between two points
+* all the questions in short_questions.md
 
 
 ### Stuff That Personally Worked for Me (Arshia)
